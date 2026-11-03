@@ -1,0 +1,6 @@
+{
+  "name": "NutriPulse AI",
+  "description": "Clinical AI Nutrition, Regional Food Vision & Metabolic Tracker by Ayush Kumar",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
